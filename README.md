@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-6DB33F?style=for-the-badge" alt="Full Stack Developer">
   <img src="https://img.shields.io/badge/Java-Expert-ED8B00?style=for-the-badge&logo=java" alt="Java">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" alt="Angular">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </div>
 
 ## 👋 Présentation
@@ -19,11 +20,10 @@ Ingénieure en développement Full Stack passionnée par la création d'applicat
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -37,6 +37,8 @@ Ingénieure en développement Full Stack passionnée par la création d'applicat
 
 ### Outils & Méthodologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-FF6F00?style=flat)
 ![Agile](https://img.shields.io/badge/Agile-009688?style=flat&logo=agile&logoColor=white)
 
@@ -47,6 +49,9 @@ Ingénieure en développement Full Stack passionnée par la création d'applicat
 
 **Diplôme de Technicienne Spécialisée en Développement Informatique**  
 *OFPPT NTIC2 - 2019-2021*
+
+**Formation Full Stack Spring Boot & Angular**  
+*Coding Tech - 3 mois*
 
 ## 💻 Expérience Professionnelle
 
